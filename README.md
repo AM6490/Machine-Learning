@@ -1,5 +1,5 @@
 # Machine_Learning_HW
-This repository includes all the homework assignments that I completed for the course QMSSGR5703 Machine Learning for the Social Sciences
+This repository includes all the homework assignments that I completed for the course QMSSGR5703 Machine Learning for the Social Sciences at Columbia University
 
 The topics for each assignment include:
 1. EDA using Python
